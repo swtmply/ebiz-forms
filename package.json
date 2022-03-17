@@ -9,13 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "moment": "^2.29.1",
     "next": "12.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.28.0",
+    "react-signature-canvas": "^1.0.5"
   },
   "devDependencies": {
     "@types/node": "17.0.21",
     "@types/react": "17.0.40",
+    "@types/react-signature-canvas": "^1.0.2",
     "autoprefixer": "^10.4.2",
     "eslint": "8.11.0",
     "eslint-config-next": "12.1.0",
